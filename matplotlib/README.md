@@ -1,4 +1,5 @@
 Mainly includes sample code for drawing line charts, scatter plots, bar charts, etc. using matplotlib.
+
 homework_1:
 假设大家在30岁的时候,根据自己的实际情况,统计出来了你和你同桌各自从11岁到30岁每年交的女(男)朋友的数量如列表a和b,请在一个图中绘制出该数据的折线图,以便比较自己和同桌20年间的差异,同时分析每年交女(男)朋友的数量走势
 a = [1,0,1,1,2,4,3,2,3,4,4,5,6,5,4,3,3,1,1,1]
