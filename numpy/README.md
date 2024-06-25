@@ -1,1 +1,1 @@
-Example code for using numpy for scientific calculations
+Example code for using numpy for scientific calculations.
