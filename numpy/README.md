@@ -1,1 +1,5 @@
 Example code for using numpy for scientific calculations.
+
+homework_1:
+英国和美国各自youtube1000的数据结合之前的matplotlib绘制出各自的评论数量的直方图
+希望了解英国的youtube中视频的评论数和喜欢数的关系，应该如何绘制改图
